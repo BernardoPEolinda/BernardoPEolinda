@@ -1,23 +1,18 @@
-# Olá, eu sou o Bernardo 👋
-Desenvolvedor focado em aprender, crescer e contribuir com soluções modernas e eficientes. Aberto a oportunidades profissionais como **dev júnior**, **estágio** ou **freelancer**.
+# Olá, eu sou o Anderson Bernardo 👋
 
----
+### Sobre mim
+Sou um profissional com vasto conhecimento em **redes de fibra óptica**, sistemas de gerenciamento, tecnologias e circuitos de câmeras DTH e FTTH.  
+Tenho interesse em expandir minhas habilidades em desenvolvimento e tecnologias relacionadas, buscando oportunidades para crescer na área de tecnologia e contribuir com projetos desafiadores.
 
-### 🚀 Habilidades
+### Tecnologias e habilidades
+- Redes: Fibra óptica, DTH, FTTH, sistemas de gerenciamento de redes  
+- Desenvolvimento (em estudo): Python, Banco de Dados, HTML, CSS  
+- Ferramentas: Git, GitHub, VS Code  
 
-- HTML, CSS, JavaScript  
-- Git e GitHub  
+### Projetos em destaque
+- Em breve: repositórios com projetos práticos e códigos para demonstrar minhas habilidades.
 
----
-
-### 📫 Contato
-
-- Email: 1986.andersonbernrdo@gmail.com  
-- LinkedIn: [linkedin.com/in/anderson-bernardo-da-silva](https://www.linkedin.com/in/anderson-bernardo-da-silva-838510334)  
-- GitHub: [github.com/BernardoPEolinda](https://github.com/BernardoPEolinda)
-
----
-
-### 📌 Objetivo
-
-Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhecimentos e continuar evoluindo como desenvolvedor.
+### Como me encontrar
+- [LinkedIn](https://linkedin.com/in/anderson-bernardo-da-silva)  
+- [Email](mailto:1986.andersonbernrdo@gmail.com)  
+- [GitHub](https://github.com/BernardoPEolinda)
