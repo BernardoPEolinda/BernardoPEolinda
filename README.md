@@ -1,16 +1,25 @@
-## Hi there 👋
+# Bernardo P. Eolinda
 
-<!--
-**BernardoPEolinda/BernardoPEolinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado em aprender, crescer e contribuir com soluções modernas e eficientes. Aberto a oportunidades profissionais como **dev júnior**, **estágio** ou **freelancer**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Habilidades
+
+- HTML, CSS, JavaScript  
+- Git e GitHub  
+- [Adicione outras habilidades aqui, como React, Node.js, Python...]
+
+---
+
+### 📫 Contato
+
+- Email: 1986.andersonbernrdo@gmail.com  
+- LinkedIn: [linkedin.com/in/anderson-bernardo-da-silva](https://www.linkedin.com/in/anderson-bernardo-da-silva-838510334)  
+- GitHub: [github.com/BernardoPEolinda](https://github.com/BernardoPEolinda)
+
+---
+
+### 📌 Objetivo
+
+Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhecimentos e continuar evoluindo como desenvolvedor.
