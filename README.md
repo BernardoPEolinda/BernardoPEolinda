@@ -14,5 +14,5 @@ Tenho interesse em expandir minhas habilidades em desenvolvimento e tecnologias 
 
 ### Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/anderson-bernardo-da-silva-838510334)  
-- [Email](1986.andersonbernrdo@gmail.com)  
+- [Email](1986.andersonbernardo@gmail.com)  
 - [GitHub](https://github.com/BernardoPEolinda)
