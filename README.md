@@ -1,5 +1,4 @@
-# Bernardo P. Eolinda
-
+# Olá, eu sou o Bernardo 👋
 Desenvolvedor focado em aprender, crescer e contribuir com soluções modernas e eficientes. Aberto a oportunidades profissionais como **dev júnior**, **estágio** ou **freelancer**.
 
 ---
