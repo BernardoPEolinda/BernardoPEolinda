@@ -7,7 +7,6 @@ Desenvolvedor focado em aprender, crescer e contribuir com soluções modernas e
 
 - HTML, CSS, JavaScript  
 - Git e GitHub  
-- [Adicione outras habilidades aqui, como React, Node.js, Python...]
 
 ---
 
